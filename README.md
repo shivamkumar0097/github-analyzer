@@ -1,6 +1,6 @@
 # GitHub Profile Analyzer
 
-A fast, no-sign-in web app that turns any GitHub username into a clean developer profile. Enter a handle and instantly get a weighted developer score, language breakdown, and a ranked view of their best repositories.
+A quick, no-sign-in web app that turns any GitHub username into a clean developer profile. Enter a handle and instantly get a weighted developer score, language breakdown, and a ranked view of their best repositories.
 
 Built with React 19 + Vite, powered by the public GitHub REST API.
 
